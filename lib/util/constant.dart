@@ -1,0 +1,14 @@
+const String setting = "Настройки";
+const String favorite = "Избранное";
+const String call = "Звонки";
+const String device = "Устройство";
+const String folderChat = "Папка с чатами";
+const String notifications = "Уведомления и звуки";
+const String confidentiality = "Конфиденциальность";
+const String dataAndMemory = "Данные и память";
+const String decor = "Оформление";
+const String language = "Языки";
+const String appleWatch = "Apple Watch";
+const String help = "Помощь";
+const String questionAnswer = "Вопросы о Telegram";
+const String stickers = "Стикеры";
